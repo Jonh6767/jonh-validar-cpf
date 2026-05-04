@@ -1,4 +1,4 @@
 #  VALIDADOR DE CPF 
 Repositorio para Validar o cpf utilizando python como aplicação.
 # objetivo 
-Objetivo principal é aplicar a logica de programação para reproduzir o algoritmo oficial que a receita federal usa para validar os CPFs.
+O objetivo deste repositório é fornecer uma ferramenta capaz de validar a autenticidade matemática de um CPF, assegurando que o documento informado segue o padrão oficial de dígitos verificadores estabelecido pela legislação brasileira
